@@ -15,31 +15,21 @@ Welcome to VoiceWizard, your go-to solution for transforming text into lifelike 
 
 ## 🛠️ Installation
 
-1. Clone this repository:
+1. Clone this repository.
 
-   ```
-   git clone https://github.com/yourusername/VoiceWizard.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```
-   cd VoiceWizard
-   ```
-
-3. Set up a virtual environment (we use pipenv):
+2. Set up a virtual environment (we use pipenv):
 
    ```
    pipenv install
    ```
 
-4. Activate the virtual environment:
+3. Activate the virtual environment:
 
    ```
    pipenv shell
    ```
 
-5. Install the required dependencies:
+4. Install the required dependencies:
    ```
    pip install TTS torch pydub
    ```
@@ -51,7 +41,7 @@ Welcome to VoiceWizard, your go-to solution for transforming text into lifelike 
 2. Run the main script:
 
    ```
-   python voice_wizard.py
+   python main.py
    ```
 
 3. Follow the on-screen prompts to:
@@ -77,7 +67,7 @@ Welcome to VoiceWizard, your go-to solution for transforming text into lifelike 
 - 🎤 Voice cloning capabilities
 - 🎭 More language options
 - 🎛️ Advanced audio editing features
-- 🌈 User-friendly GUI
+- 🤝 User-friendly GUI
 
 ## 🤝 Contributing
 
